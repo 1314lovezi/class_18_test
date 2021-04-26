@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaa
+1619247461741,67753,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+>>>>>>> dev
 1619247461741,11569,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
 1619247461741,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
 1619247461741,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
@@ -3187,5 +3192,9 @@
 1619401338771,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,null,0,0,0
 1619401343051,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,null,0,0,0
 1619401343201,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,null,0,0,0
+<<<<<<< HEAD
 1619401343271,-1000,java.net.ConnectException: Connection refused: connect,,java.net.ConnectException: Connection refused: connect,,,false,,0,0,0,0,null,0,0,0
+=======
+
+>>>>>>> dev
 
